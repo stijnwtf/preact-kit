@@ -1,0 +1,9 @@
+name: Feature request
+description: Suggest something the starter should include
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: What should be added, and why?
+    validations:
+      required: true

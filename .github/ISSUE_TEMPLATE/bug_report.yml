@@ -1,0 +1,14 @@
+name: Bug report
+description: Something in the starter is broken
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
+      description: Steps to reproduce, what you expected, and what you saw instead.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Node and pnpm version
+      placeholder: Node 22.x, pnpm 11.x
