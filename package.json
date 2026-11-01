@@ -24,10 +24,10 @@
     "*.{ts,tsx,js,jsx,json,css}": "biome check --write --no-errors-on-unmatched"
   },
   "dependencies": {
-    "@preact/signals": "^2.11.3",
-    "preact": "^11.0.1",
+    "@preact/signals": "^2.11.4",
+    "preact": "^11.1.0",
     "preact-iso": "^2.12.2",
-    "preact-render-to-string": "^6.8.0"
+    "preact-render-to-string": "^6.8.2"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.5.15",
